@@ -117,6 +117,28 @@
         </div>
         </div>
 
+
+        <div class="AProject">
+            <div class="TextOfProject">
+                <h3>Kelna</h3>
+                <p>
+                Jeu 2D qui étais un projet de fin d'année
+                </p>
+                <ul class="WhichProjectLanguage">
+                <li>P5.JS</li>
+                </ul>
+
+                <div class="LinkProjectPage">
+                <a href="././structures/PROJETS/BOTS/pagebotsdiscord.php" class="LinkToPage">
+                    Voir plus<span>&rarr;</span>
+                </a>
+                </div>
+            </div>
+            <div class="ProjectPresimage-box">
+                <img src="./IMGS/DISCORD/ImgAcceuil.webp" class="ProjectPresimage" alt="BotsDiscord" />
+            </div>
+        </div>
+
     </div>
     </div>
 </section>
