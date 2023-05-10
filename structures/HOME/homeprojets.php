@@ -120,22 +120,22 @@
 
         <div class="AProject">
             <div class="TextOfProject">
-                <h3>Kelna</h3>
+                <h3>JEU VIDEO 2D</h3>
                 <p>
-                Jeu 2D qui étais un projet de fin d'année
+                Le projet de fin d'année : un jeu-vidéo 2D ! 
                 </p>
                 <ul class="WhichProjectLanguage">
-                <li>P5.JS</li>
+                <li>P5.js</li>
                 </ul>
 
                 <div class="LinkProjectPage">
-                <a href="././structures/PROJETS/BOTS/pagebotsdiscord.php" class="LinkToPage">
+                <a href="././structures/PROJETS/KELNA/pagekelna.php" class="LinkToPage">
                     Voir plus<span>&rarr;</span>
                 </a>
                 </div>
             </div>
             <div class="ProjectPresimage-box">
-                <img src="./IMGS/DISCORD/ImgAcceuil.webp" class="ProjectPresimage" alt="BotsDiscord" />
+                <img src="./IMGS/KELNA/acceuil.jpg" class="ProjectPresimage" alt="Kelna" />
             </div>
         </div>
 
